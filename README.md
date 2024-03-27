@@ -1,8 +1,8 @@
 *Other owned repositories for websites:*  
 https://github.com/thegokturk/thegokturk.github.io  
 
-*My Websites:*
-https://thegokturk.github.io/
+*My Websites:*  
+https://thegokturk.github.io/  
 
 
 <!---
