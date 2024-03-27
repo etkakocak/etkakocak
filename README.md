@@ -1,5 +1,5 @@
-*Other owned repositories for websites:*
-https://github.com/thegokturk/thegokturk.github.io
+*Other owned repositories for websites:*  
+https://github.com/thegokturk/thegokturk.github.io  
 
 <!---
 etkakocak/etkakocak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
