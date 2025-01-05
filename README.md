@@ -1,6 +1,3 @@
-*Other owned repositories for websites:*  
-https://github.com/thegokturk/thegokturk.github.io  
-
 *My Websites:*  
 https://thegokturk.github.io/  
 
@@ -8,7 +5,7 @@ https://thegokturk.github.io/
 | | |
 |:------------- |:---------------:|
 | **Programming Languages:** | Java, Python, C#, C, PHP, JavaScript, SQL, Matlab, Dart |
-| **Web Technologies:** | HTML, CSS, XML, JSON, Java Web Server, Node.js |
+| **Web Technologies:** | HTML, CSS, JavaScript Web Applications (Node.js), XML, JSON, Java Web Server |
 | **Database:** | MySQL |
 | **Version Control Systems:** | Git, GitHub, GitLab |
 | **Testing Tools:** | JUnit, pytest |
