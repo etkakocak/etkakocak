@@ -8,15 +8,15 @@ https://thegokturk.github.io/
 | | |
 |:------------- |:---------------:|
 | **Programming Languages:** | Java, Python, C#, C, PHP, JavaScript, SQL, Matlab, Dart |
-| **Web Technologies:** | HTML, CSS, XML, JSON, Java Web Server |
+| **Web Technologies:** | HTML, CSS, XML, JSON, Java Web Server, Node.js |
 | **Database:** | MySQL |
 | **Version Control Systems:** | Git, GitHub, GitLab |
 | **Testing Tools:** | JUnit, pytest |
 | **Mobile Application Development:** | Flutter, Android Studio |
-| **Operating Systems:** | Linux, Windows |
+| **Operating Systems:** | Linux, Windows, Android |
 | **Modelling Languages / Tools:** | UML, Mermaid |
 | **Productivity software:** | Office 365, Google Workspace |
-| **Embedded Systems Languages / Platforms:** | Arduino, Raspberry Pi, MicroPython, VHDL, Verilog, Embedded C, Assembly |
+| **Embedded Systems Languages / Platforms:** | Arduino, Raspberry Pi, MicroPython, VHDL, Verilog, Embedded C, MQTT, Assembly, ES Reliability |
 | **Electronic Design and Analysis:** | LTspice, PCB design, Analog and digital circuit design, Signal processing techniques |
 
 <!---
