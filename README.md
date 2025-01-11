@@ -15,6 +15,7 @@ https://thegokturk.github.io/
 | **Productivity software:** | Office 365, Google Workspace |
 | **Embedded Systems Languages / Platforms:** | Arduino, Raspberry Pi, MicroPython, VHDL, Verilog, Embedded C, MQTT, Assembly, ES Reliability |
 | **Electronic Design and Analysis:** | LTspice, PCB design, Analog and digital circuit design, Signal processing techniques |
+| **Machine Learning:** | Supervised Learning, Unsupervised Learning, Model Evaluation and Selection, Data Visualization, Practical Applications |
 
 <!---
 etkakocak/etkakocak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
