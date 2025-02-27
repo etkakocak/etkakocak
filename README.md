@@ -1,5 +1,3 @@
-*My Websites:*  
-https://thegokturk.github.io/  
 
 ### Familiar development tools and technologies  
 | | |
@@ -16,6 +14,9 @@ https://thegokturk.github.io/
 | **Embedded Systems Languages / Platforms:** | Arduino, Raspberry Pi, MicroPython, VHDL, Verilog, Embedded C, MQTT, Assembly, ES Reliability |
 | **Electronic Design and Analysis:** | LTspice, PCB design, Analog and digital circuit design, Signal processing techniques |
 | **Machine Learning:** | Supervised Learning, Unsupervised Learning, Model Evaluation and Selection, Data Visualization, Practical Applications |
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etkakocak&langs_count=10&exclude_repo=MachineLearning-Tasks&hide=SQL)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=etkakocak&show_icons=true&hide=prs,issues,stars)
 
 <!---
 etkakocak/etkakocak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
