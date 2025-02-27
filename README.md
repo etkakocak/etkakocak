@@ -16,7 +16,6 @@
 | **Machine Learning:** | Supervised Learning, Unsupervised Learning, Model Evaluation and Selection, Data Visualization, Practical Applications |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etkakocak&langs_count=10&exclude_repo=MachineLearning-Tasks&hide=SQL)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=etkakocak&show_icons=true&hide=prs,issues,stars)
 
 <!---
 etkakocak/etkakocak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
