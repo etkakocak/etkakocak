@@ -9,9 +9,7 @@
 | **Version Control Systems:** | Git (GitHub, GitLab) |
 | **Testing Tools:** | JUnit, ESLint, pytest |
 | **Mobile Application Development:** | Flutter (Android & iOS), Android Studio (Android) |
-| **Operating Systems:** | Linux (Kali, Raspberry Pi OS) – CLI usage,  
-Windows – advanced usage, system architecture, debugging, and repair,  
-Android – advanced usage, device recovery, and repair |
+| **Operating Systems:** | Linux (Kali, Raspberry Pi OS) – CLI usage,  Windows – advanced usage, system architecture, debugging, and repair,  Android – advanced usage, device recovery, and repair |
 | **Modelling Languages / Tools:** | UML, Mermaid |
 | **Enterprise Systems & Workplace Tools:** | Office 365, Google Workspace |
 | **Embedded Systems Languages / Platforms:** | Arduino, Raspberry Pi, MicroPython, CircuitPython, VHDL, Verilog, Embedded C, MQTT, Assembly, ES Reliability (Fault Tolerance, Safety-critical), RTOS (FreeRTOS) |
