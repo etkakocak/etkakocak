@@ -3,16 +3,19 @@
 | | |
 |:------------- |:---------------:|
 | **Programming Languages:** | Java, Python, C#, C, PHP, JavaScript, SQL, Matlab, Dart |
-| **Web Technologies:** | HTML, CSS, JavaScript Web Applications (Node.js), XML, JSON, Java Web Server |
-| **Database:** | MySQL |
-| **Version Control Systems:** | Git, GitHub, GitLab |
-| **Testing Tools:** | JUnit, pytest |
-| **Mobile Application Development:** | Flutter, Android Studio |
-| **Operating Systems:** | Linux, Windows, Android |
+| **Web Technologies:** | Full-Stack Web Development, HTML, CSS, JavaScript (Node.js, Express.js), Mongoose, EJS (Embedded JavaScript Templates), Java HTTP Server, REST API, RESTful, SPA, WebSockets, XML, JSON |
+| **Database:** | MySQL, MongoDB |
+| **Software Architecture:** | MVC (Model-View-Controller), Event-Driven Architecture, Role-Based Access Control |
+| **Version Control Systems:** | Git (GitHub, GitLab) |
+| **Testing Tools:** | JUnit, ESLint, pytest |
+| **Mobile Application Development:** | Flutter (Android & iOS), Android Studio (Android) |
+| **Operating Systems:** | Linux (Kali, Raspberry Pi OS) – CLI usage,  
+Windows – advanced usage, system architecture, debugging, and repair,  
+Android – advanced usage, device recovery, and repair |
 | **Modelling Languages / Tools:** | UML, Mermaid |
-| **Productivity software:** | Office 365, Google Workspace |
-| **Embedded Systems Languages / Platforms:** | Arduino, Raspberry Pi, MicroPython, VHDL, Verilog, Embedded C, MQTT, Assembly, ES Reliability |
-| **Electronic Design and Analysis:** | LTspice, PCB design, Analog and digital circuit design, Signal processing techniques |
+| **Enterprise Systems & Workplace Tools:** | Office 365, Google Workspace |
+| **Embedded Systems Languages / Platforms:** | Arduino, Raspberry Pi, MicroPython, CircuitPython, VHDL, Verilog, Embedded C, MQTT, Assembly, ES Reliability (Fault Tolerance, Safety-critical), RTOS (FreeRTOS) |
+| **Electronic Design and Analysis:** | LTspice, PCB design, Analog and digital circuit design (Simulation & Physical Implementation), Signal Processing & Measurement |
 | **Machine Learning:** | Introduction level: Custom ML Model Implementation, Deep Learning with Neural Networks, Model Evaluation, Hyperparameter Tuning & Feature Selection, Automated ML Model Testing & Debugging |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etkakocak&langs_count=10&exclude_repo=MachineLearning-Tasks&hide=SQL)
